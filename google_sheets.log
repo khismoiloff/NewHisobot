@@ -1,0 +1,938 @@
+2025-11-28 11:17:52,450 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 11:17:52,450 - root - INFO - 📊 Ma'lumotlar saqlash tartibi: Birinchi hisobot #1 (eng tepada), keyingisi #2 (pastda)
+2025-11-28 11:17:52,451 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 11:17:52,460 - root - INFO - 📝 Otchot router muvaffaqiyatli yuklandi
+2025-11-28 11:17:52,460 - root - INFO - 🔄 Hisobot jarayoni: Viloyat → Template → Rasm → Tasdiqlash
+2025-11-28 11:17:52,460 - root - INFO - 💰 Summa formatlash: 500000 → 500.000
+2025-11-28 11:17:52,460 - root - INFO - 👨‍💼 Sotuvchi profili: To'liq batafsil ma'lumotlar
+2025-11-28 11:17:52,460 - root - INFO - 🔗 Sotuvchi bilan bog'lanish: Helper kabi ishlaydi
+2025-11-28 11:17:52,460 - root - INFO - 🔧 Optimallashtirilgan va to'liq tangilangan versiya
+2025-11-28 11:17:52,491 - root - INFO - Admin router initialized successfully
+2025-11-28 11:17:52,519 - root - INFO - Database 'bot_data.db' initialized successfully with all tables.
+2025-11-28 11:17:52,550 - root - INFO - 🤖 Bot ishga tushmoqda...
+2025-11-28 11:17:52,551 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 11:17:52,711 - aiogram.dispatcher - INFO - Run polling for bot @demoribot id=8299226351 - 'Sinov Botim'
+2025-11-28 11:18:01,039 - aiogram.event - INFO - Update id=832234235 is handled. Duration 175 ms by bot id=8299226351
+2025-11-28 11:18:01,906 - aiogram.event - INFO - Update id=832234236 is handled. Duration 72 ms by bot id=8299226351
+2025-11-28 11:18:04,799 - root - INFO - Yangi foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) ro'yxatdan o'tish jarayonini boshladi.
+2025-11-28 11:18:04,799 - aiogram.event - INFO - Update id=832234237 is handled. Duration 119 ms by bot id=8299226351
+2025-11-28 11:18:07,266 - root - INFO - Foydalanuvchi 7000454062 to'g'ri parol kiritdi, ism so'ralmoqda.
+2025-11-28 11:18:07,266 - aiogram.event - INFO - Update id=832234238 is handled. Duration 88 ms by bot id=8299226351
+2025-11-28 11:18:14,879 - aiogram.event - INFO - Update id=832234239 is handled. Duration 142 ms by bot id=8299226351
+2025-11-28 11:18:17,757 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-11-28 11:18:17,758 - aiogram.event - INFO - Update id=832234240 is handled. Duration 73 ms by bot id=8299226351
+2025-11-28 11:18:19,527 - aiogram.event - INFO - Update id=832234241 is handled. Duration 229 ms by bot id=8299226351
+2025-11-28 11:18:21,304 - aiogram.event - INFO - Update id=832234242 is handled. Duration 121 ms by bot id=8299226351
+2025-11-28 11:19:36,784 - aiogram.event - INFO - Update id=832234243 is handled. Duration 137 ms by bot id=8299226351
+2025-11-28 11:19:40,762 - aiogram.event - INFO - Update id=832234244 is handled. Duration 211 ms by bot id=8299226351
+2025-11-28 11:19:42,205 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-11-28 11:19:42,206 - aiogram.event - INFO - Update id=832234245 is handled. Duration 108 ms by bot id=8299226351
+2025-11-28 11:19:44,245 - aiogram.event - INFO - Update id=832234246 is handled. Duration 220 ms by bot id=8299226351
+2025-11-28 11:19:45,366 - aiogram.event - INFO - Update id=832234247 is handled. Duration 122 ms by bot id=8299226351
+2025-11-28 11:20:05,746 - aiogram.event - INFO - Update id=832234248 is handled. Duration 84 ms by bot id=8299226351
+2025-11-28 11:20:11,255 - aiogram.event - INFO - Update id=832234249 is handled. Duration 81 ms by bot id=8299226351
+2025-11-28 11:20:13,322 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 11:20:14,472 - root - INFO - 📄 Spreadsheet ochildi: Linesss
+2025-11-28 11:20:14,693 - root - INFO - ➕ Yangi worksheet yaratilmoqda: 'malumot'
+2025-11-28 11:20:16,471 - root - INFO - ✅ Sarlavhalar muvaffaqiyatli formatlandi
+2025-11-28 11:20:16,472 - root - INFO - ✅ Yangi worksheet yaratildi va formatlandi: 'malumot'
+2025-11-28 11:20:16,476 - root - INFO - Google Sheet added: Sinov - ID=11qY4iQjJYNqmrJiBQPCfM8KS26vmV-hXF_O7bI-jeio, Worksheet=malumot
+2025-11-28 11:20:16,476 - root - INFO - Google Sheet added: Sinov (11qY4iQjJYNqmrJiBQPCfM8KS26vmV-hXF_O7bI-jeio/malumot)
+2025-11-28 11:20:16,588 - aiogram.event - INFO - Update id=832234250 is not handled. Duration 3267 ms by bot id=8299226351
+2025-11-28 11:20:16,588 - aiogram.event - ERROR - Cause exception while process update id=832234250 by bot id=8299226351
+AttributeError: 'Message' object has no attribute 'message'
+Traceback (most recent call last):
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/HisobotBot/admin.py", line 723, in process_google_sheet_worksheet_name
+    await show_sheets_list(message, state)
+  File "/root/TelegramBot/HisobotBot/admin.py", line 581, in show_sheets_list
+    await callback_query.message.edit_text(text, reply_markup=get_sheets_list_keyboard(sheets))
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/pydantic/main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Message' object has no attribute 'message'. Did you mean: 'message_id'?
+2025-11-28 11:20:19,567 - root - INFO - Yangi foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) ro'yxatdan o'tish jarayonini boshladi.
+2025-11-28 11:20:19,567 - aiogram.event - INFO - Update id=832234251 is handled. Duration 105 ms by bot id=8299226351
+2025-11-28 11:20:22,328 - root - INFO - Foydalanuvchi 7000454062 to'g'ri parol kiritdi, ism so'ralmoqda.
+2025-11-28 11:20:22,329 - aiogram.event - INFO - Update id=832234252 is handled. Duration 86 ms by bot id=8299226351
+2025-11-28 11:20:29,152 - aiogram.event - INFO - Update id=832234253 is handled. Duration 195 ms by bot id=8299226351
+2025-11-28 11:20:32,712 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-11-28 11:20:32,712 - aiogram.event - INFO - Update id=832234254 is handled. Duration 87 ms by bot id=8299226351
+2025-11-28 11:20:34,711 - aiogram.event - INFO - Update id=832234255 is handled. Duration 137 ms by bot id=8299226351
+2025-11-28 11:20:35,964 - aiogram.event - INFO - Update id=832234256 is handled. Duration 135 ms by bot id=8299226351
+2025-11-28 11:20:51,952 - aiogram.event - INFO - Update id=832234257 is handled. Duration 72 ms by bot id=8299226351
+2025-11-28 11:20:54,667 - aiogram.event - INFO - Update id=832234258 is handled. Duration 70 ms by bot id=8299226351
+2025-11-28 11:20:55,702 - root - INFO - Group Sinov (-1002848261924) with topic 2 and sheet 1 added to database.
+2025-11-28 11:20:55,703 - root - INFO - Group Sinov (-1002848261924) added with Google Sheet Sinov by admin
+2025-11-28 11:20:55,903 - aiogram.event - INFO - Update id=832234259 is handled. Duration 208 ms by bot id=8299226351
+2025-11-28 11:20:58,807 - root - INFO - Yangi foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) ro'yxatdan o'tish jarayonini boshladi.
+2025-11-28 11:20:58,807 - aiogram.event - INFO - Update id=832234260 is handled. Duration 112 ms by bot id=8299226351
+2025-11-28 11:21:01,309 - root - INFO - Foydalanuvchi 7000454062 to'g'ri parol kiritdi, ism so'ralmoqda.
+2025-11-28 11:21:01,309 - aiogram.event - INFO - Update id=832234261 is handled. Duration 151 ms by bot id=8299226351
+2025-11-28 11:21:08,937 - aiogram.event - INFO - Update id=832234262 is handled. Duration 146 ms by bot id=8299226351
+2025-11-28 11:21:10,183 - root - INFO - User 7000454062 added to database with group -1002848261924.
+2025-11-28 11:21:10,384 - root - INFO - Yangi foydalanuvchi 7000454062 (Software) muvaffaqiyatli ro'yxatdan o'tdi va -1002848261924 guruhiga tayinlandi.
+2025-11-28 11:21:10,485 - aiogram.event - INFO - Update id=832234263 is handled. Duration 304 ms by bot id=8299226351
+2025-11-28 11:21:11,880 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 11:21:11,880 - aiogram.event - INFO - Update id=832234264 is handled. Duration 75 ms by bot id=8299226351
+2025-11-28 11:24:19,898 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:24:19,899 - aiogram.event - INFO - Update id=832234265 is handled. Duration 76 ms by bot id=8299226351
+2025-11-28 11:24:21,012 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:24:21,012 - aiogram.event - INFO - Update id=832234266 is handled. Duration 72 ms by bot id=8299226351
+2025-11-28 11:24:21,737 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:24:21,737 - aiogram.event - INFO - Update id=832234267 is handled. Duration 86 ms by bot id=8299226351
+2025-11-28 11:24:22,318 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:24:22,318 - aiogram.event - INFO - Update id=832234268 is handled. Duration 72 ms by bot id=8299226351
+2025-11-28 11:24:22,609 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:24:22,609 - aiogram.event - INFO - Update id=832234269 is handled. Duration 75 ms by bot id=8299226351
+2025-11-28 11:24:22,808 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:24:22,808 - aiogram.event - INFO - Update id=832234270 is handled. Duration 67 ms by bot id=8299226351
+2025-11-28 11:24:22,962 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:24:22,962 - aiogram.event - INFO - Update id=832234271 is handled. Duration 72 ms by bot id=8299226351
+2025-11-28 11:24:23,071 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:24:23,071 - aiogram.event - INFO - Update id=832234272 is handled. Duration 66 ms by bot id=8299226351
+2025-11-28 11:24:23,214 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:24:23,214 - aiogram.event - INFO - Update id=832234273 is handled. Duration 76 ms by bot id=8299226351
+2025-11-28 11:24:23,300 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:24:23,300 - aiogram.event - INFO - Update id=832234274 is handled. Duration 69 ms by bot id=8299226351
+2025-11-28 11:25:21,109 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:25:21,110 - aiogram.event - INFO - Update id=832234275 is handled. Duration 86 ms by bot id=8299226351
+2025-11-28 11:25:21,202 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:25:21,202 - aiogram.event - INFO - Update id=832234276 is handled. Duration 177 ms by bot id=8299226351
+2025-11-28 11:25:21,303 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:25:21,303 - aiogram.event - INFO - Update id=832234277 is handled. Duration 83 ms by bot id=8299226351
+2025-11-28 11:25:21,482 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:25:21,483 - aiogram.event - INFO - Update id=832234278 is handled. Duration 76 ms by bot id=8299226351
+2025-11-28 11:25:21,544 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:25:21,545 - aiogram.event - INFO - Update id=832234279 is handled. Duration 92 ms by bot id=8299226351
+2025-11-28 11:25:21,574 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:25:21,574 - aiogram.event - INFO - Update id=832234281 is handled. Duration 71 ms by bot id=8299226351
+2025-11-28 11:25:21,663 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:25:21,663 - aiogram.event - INFO - Update id=832234280 is handled. Duration 208 ms by bot id=8299226351
+2025-11-28 11:25:39,757 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-11-28 11:25:39,757 - aiogram.event - INFO - Update id=832234282 is handled. Duration 148 ms by bot id=8299226351
+2025-11-28 11:26:03,107 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-28 11:26:03,110 - aiogram.dispatcher - INFO - Polling stopped for bot @demoribot id=8299226351 - 'Sinov Botim'
+2025-11-28 11:26:03,110 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 11:26:03,361 - root - INFO - 🛑 Bot to'xtatildi.
+2025-11-28 11:26:09,655 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 11:26:09,655 - root - INFO - 📊 Ma'lumotlar saqlash tartibi: Birinchi hisobot #1 (eng tepada), keyingisi #2 (pastda)
+2025-11-28 11:26:09,656 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 11:26:09,657 - root - INFO - 📝 Otchot router muvaffaqiyatli yuklandi
+2025-11-28 11:26:09,658 - root - INFO - 🔄 Hisobot jarayoni: Viloyat → Template → Rasm → Tasdiqlash
+2025-11-28 11:26:09,658 - root - INFO - 💰 Summa formatlash: 500000 → 500.000
+2025-11-28 11:26:09,658 - root - INFO - 👨‍💼 Sotuvchi profili: To'liq batafsil ma'lumotlar
+2025-11-28 11:26:09,658 - root - INFO - 🔗 Sotuvchi bilan bog'lanish: Helper kabi ishlaydi
+2025-11-28 11:26:09,658 - root - INFO - 🔧 Optimallashtirilgan va to'liq tangilangan versiya
+2025-11-28 11:26:09,673 - root - INFO - Admin router initialized successfully
+2025-11-28 11:26:09,680 - root - INFO - Database 'bot_data.db' initialized successfully with all tables.
+2025-11-28 11:26:09,700 - root - INFO - 🤖 Bot ishga tushmoqda...
+2025-11-28 11:26:09,700 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 11:26:09,858 - aiogram.dispatcher - INFO - Run polling for bot @demoribot id=8299226351 - 'Sinov Botim'
+2025-11-28 11:26:12,937 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-11-28 11:26:12,938 - aiogram.event - INFO - Update id=832234283 is handled. Duration 298 ms by bot id=8299226351
+2025-11-28 11:26:18,070 - aiogram.event - INFO - Update id=832234284 is not handled. Duration 1 ms by bot id=8299226351
+2025-11-28 11:26:22,390 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-28 11:26:22,391 - aiogram.dispatcher - INFO - Polling stopped for bot @demoribot id=8299226351 - 'Sinov Botim'
+2025-11-28 11:26:22,391 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 11:26:22,642 - root - INFO - 🛑 Bot to'xtatildi.
+2025-11-28 11:31:01,980 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 11:31:01,981 - root - INFO - 📊 Ma'lumotlar saqlash tartibi: Birinchi hisobot #1 (eng tepada), keyingisi #2 (pastda)
+2025-11-28 11:31:01,981 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 11:31:01,984 - root - INFO - 📝 Otchot router muvaffaqiyatli yuklandi
+2025-11-28 11:31:01,984 - root - INFO - 🔄 Hisobot jarayoni: Viloyat → Template → Rasm → Tasdiqlash
+2025-11-28 11:31:01,984 - root - INFO - 💰 Summa formatlash: 500000 → 500.000
+2025-11-28 11:31:01,985 - root - INFO - 👨‍💼 Sotuvchi profili: To'liq batafsil ma'lumotlar
+2025-11-28 11:31:01,985 - root - INFO - 🔗 Sotuvchi bilan bog'lanish: Helper kabi ishlaydi
+2025-11-28 11:31:01,985 - root - INFO - 🔧 Optimallashtirilgan va to'liq tangilangan versiya
+2025-11-28 11:31:01,990 - root - INFO - Admin router initialized successfully
+2025-11-28 11:31:01,997 - root - INFO - Database 'bot_data.db' initialized successfully with all tables.
+2025-11-28 11:31:02,028 - root - INFO - 🤖 Bot ishga tushmoqda...
+2025-11-28 11:31:02,029 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 11:31:04,816 - aiogram.dispatcher - INFO - Run polling for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 11:31:08,453 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:31:08,453 - aiogram.event - INFO - Update id=161640392 is handled. Duration 259 ms by bot id=8503235669
+2025-11-28 11:31:11,276 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 11:31:11,277 - aiogram.event - INFO - Update id=161640393 is handled. Duration 74 ms by bot id=8503235669
+2025-11-28 11:31:18,432 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-11-28 11:31:18,432 - aiogram.event - INFO - Update id=161640394 is handled. Duration 193 ms by bot id=8503235669
+2025-11-28 11:31:19,933 - aiogram.event - INFO - Update id=161640395 is handled. Duration 127 ms by bot id=8503235669
+2025-11-28 11:31:22,294 - aiogram.event - INFO - Update id=161640396 is handled. Duration 142 ms by bot id=8503235669
+2025-11-28 11:31:25,257 - aiogram.event - INFO - Update id=161640397 is handled. Duration 126 ms by bot id=8503235669
+2025-11-28 11:31:28,044 - aiogram.event - INFO - Update id=161640398 is handled. Duration 133 ms by bot id=8503235669
+2025-11-28 11:31:28,816 - aiogram.event - INFO - Update id=161640399 is handled. Duration 120 ms by bot id=8503235669
+2025-11-28 11:31:29,964 - aiogram.event - INFO - Update id=161640400 is handled. Duration 130 ms by bot id=8503235669
+2025-11-28 11:31:31,585 - aiogram.event - INFO - Update id=161640401 is handled. Duration 128 ms by bot id=8503235669
+2025-11-28 11:31:32,626 - aiogram.event - INFO - Update id=161640402 is handled. Duration 127 ms by bot id=8503235669
+2025-11-28 11:31:33,442 - aiogram.event - INFO - Update id=161640403 is handled. Duration 125 ms by bot id=8503235669
+2025-11-28 11:31:34,433 - aiogram.event - INFO - Update id=161640404 is handled. Duration 163 ms by bot id=8503235669
+2025-11-28 11:31:35,307 - aiogram.event - INFO - Update id=161640405 is handled. Duration 142 ms by bot id=8503235669
+2025-11-28 11:31:39,584 - aiogram.event - INFO - Update id=161640406 is handled. Duration 133 ms by bot id=8503235669
+2025-11-28 11:31:41,258 - aiogram.event - INFO - Update id=161640407 is handled. Duration 158 ms by bot id=8503235669
+2025-11-28 11:31:42,458 - aiogram.event - INFO - Update id=161640408 is handled. Duration 132 ms by bot id=8503235669
+2025-11-28 11:31:44,904 - aiogram.event - INFO - Update id=161640409 is handled. Duration 124 ms by bot id=8503235669
+2025-11-28 11:31:46,147 - aiogram.event - INFO - Update id=161640410 is handled. Duration 132 ms by bot id=8503235669
+2025-11-28 11:31:46,969 - aiogram.event - INFO - Update id=161640411 is handled. Duration 123 ms by bot id=8503235669
+2025-11-28 11:31:49,939 - aiogram.event - INFO - Update id=161640412 is handled. Duration 304 ms by bot id=8503235669
+2025-11-28 11:31:50,838 - aiogram.event - INFO - Update id=161640413 is handled. Duration 128 ms by bot id=8503235669
+2025-11-28 11:31:52,817 - aiogram.event - INFO - Update id=161640414 is handled. Duration 279 ms by bot id=8503235669
+2025-11-28 11:31:53,651 - aiogram.event - INFO - Update id=161640415 is handled. Duration 150 ms by bot id=8503235669
+2025-11-28 11:31:54,734 - aiogram.event - INFO - Update id=161640416 is handled. Duration 144 ms by bot id=8503235669
+2025-11-28 11:34:42,115 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 11:34:42,115 - root - INFO - 📊 Ma'lumotlar saqlash tartibi: Birinchi hisobot #1 (eng tepada), keyingisi #2 (pastda)
+2025-11-28 11:34:42,115 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 11:34:42,118 - root - INFO - 📝 Otchot router muvaffaqiyatli yuklandi
+2025-11-28 11:34:42,118 - root - INFO - 🔄 Hisobot jarayoni: Viloyat → Template → Rasm → Tasdiqlash
+2025-11-28 11:34:42,118 - root - INFO - 💰 Summa formatlash: 500000 → 500.000
+2025-11-28 11:34:42,118 - root - INFO - 👨‍💼 Sotuvchi profili: To'liq batafsil ma'lumotlar
+2025-11-28 11:34:42,119 - root - INFO - 🔗 Sotuvchi bilan bog'lanish: Helper kabi ishlaydi
+2025-11-28 11:34:42,119 - root - INFO - 🔧 Optimallashtirilgan va to'liq tangilangan versiya
+2025-11-28 11:34:42,158 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-11-28 11:34:42,161 - root - INFO - Main admin ID: 7000454062
+2025-11-28 11:34:42,161 - root - INFO - Helper ID: 7000454062
+2025-11-28 11:34:42,161 - root - INFO - Additional admins: 0
+2025-11-28 11:34:42,162 - root - INFO - Additional approvers: 0
+2025-11-28 11:34:42,162 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-11-28 11:34:42,163 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-11-28 11:34:42,163 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-11-28 11:34:42,164 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-11-28 11:34:42,165 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-11-28 11:34:42,165 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-11-28 11:34:42,182 - root - INFO - Database 'bot_data.db' initialized successfully with all tables.
+2025-11-28 11:34:42,246 - root - INFO - 🤖 Bot ishga tushmoqda...
+2025-11-28 11:34:42,247 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 11:34:42,405 - aiogram.dispatcher - INFO - Run polling for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 11:34:42,642 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 11:34:42,643 - aiogram.event - INFO - Update id=161640418 is handled. Duration 183 ms by bot id=8503235669
+2025-11-28 11:34:42,676 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-11-28 11:34:42,677 - aiogram.event - INFO - Update id=161640417 is handled. Duration 216 ms by bot id=8503235669
+2025-11-28 11:34:45,080 - aiogram.event - INFO - Update id=161640419 is handled. Duration 141 ms by bot id=8503235669
+2025-11-28 11:34:46,536 - aiogram.event - INFO - Update id=161640420 is handled. Duration 129 ms by bot id=8503235669
+2025-11-28 11:34:47,856 - aiogram.event - INFO - Update id=161640421 is handled. Duration 152 ms by bot id=8503235669
+2025-11-28 11:34:48,663 - aiogram.event - INFO - Update id=161640422 is handled. Duration 145 ms by bot id=8503235669
+2025-11-28 11:34:51,411 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-28 11:34:51,412 - aiogram.dispatcher - INFO - Polling stopped for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 11:34:51,413 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 11:34:51,664 - root - INFO - 🛑 Bot to'xtatildi.
+2025-11-28 11:35:04,597 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 11:35:04,598 - root - INFO - 📊 Ma'lumotlar saqlash tartibi: Birinchi hisobot #1 (eng tepada), keyingisi #2 (pastda)
+2025-11-28 11:35:04,599 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 11:35:04,601 - root - INFO - 📝 Otchot router muvaffaqiyatli yuklandi
+2025-11-28 11:35:04,601 - root - INFO - 🔄 Hisobot jarayoni: Viloyat → Template → Rasm → Tasdiqlash
+2025-11-28 11:35:04,601 - root - INFO - 💰 Summa formatlash: 500000 → 500.000
+2025-11-28 11:35:04,601 - root - INFO - 👨‍💼 Sotuvchi profili: To'liq batafsil ma'lumotlar
+2025-11-28 11:35:04,601 - root - INFO - 🔗 Sotuvchi bilan bog'lanish: Helper kabi ishlaydi
+2025-11-28 11:35:04,602 - root - INFO - 🔧 Optimallashtirilgan va to'liq tangilangan versiya
+2025-11-28 11:35:04,606 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-11-28 11:35:04,607 - root - INFO - Main admin ID: 7000454062
+2025-11-28 11:35:04,607 - root - INFO - Helper ID: 7000454062
+2025-11-28 11:35:04,608 - root - INFO - Additional admins: 0
+2025-11-28 11:35:04,608 - root - INFO - Additional approvers: 0
+2025-11-28 11:35:04,608 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-11-28 11:35:04,608 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-11-28 11:35:04,608 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-11-28 11:35:04,608 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-11-28 11:35:04,608 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-11-28 11:35:04,608 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-11-28 11:35:04,613 - root - INFO - Database 'bot_data.db' initialized successfully with all tables.
+2025-11-28 11:35:04,633 - root - INFO - 🤖 Bot ishga tushmoqda...
+2025-11-28 11:35:04,634 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 11:35:04,784 - aiogram.dispatcher - INFO - Run polling for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 11:35:09,622 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:35:09,622 - aiogram.event - INFO - Update id=161640423 is handled. Duration 176 ms by bot id=8503235669
+2025-11-28 11:35:10,874 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 11:35:10,874 - aiogram.event - INFO - Update id=161640424 is handled. Duration 78 ms by bot id=8503235669
+2025-11-28 11:35:11,956 - aiogram.event - INFO - Update id=161640425 is handled. Duration 73 ms by bot id=8503235669
+2025-11-28 11:35:12,963 - aiogram.event - INFO - Update id=161640426 is handled. Duration 93 ms by bot id=8503235669
+2025-11-28 11:35:14,121 - aiogram.event - INFO - Update id=161640427 is handled. Duration 96 ms by bot id=8503235669
+2025-11-28 11:37:31,600 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:37:31,600 - aiogram.event - INFO - Update id=161640428 is handled. Duration 72 ms by bot id=8503235669
+2025-11-28 11:37:35,504 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:37:35,504 - aiogram.event - INFO - Update id=161640429 is handled. Duration 78 ms by bot id=8503235669
+2025-11-28 11:37:37,267 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 11:37:37,267 - aiogram.event - INFO - Update id=161640430 is handled. Duration 76 ms by bot id=8503235669
+2025-11-28 11:37:38,759 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 11:37:38,760 - aiogram.event - INFO - Update id=161640431 is handled. Duration 76 ms by bot id=8503235669
+2025-11-28 11:37:40,841 - aiogram.event - INFO - Update id=161640432 is handled. Duration 145 ms by bot id=8503235669
+2025-11-28 11:37:43,956 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirishni bekor qildi
+2025-11-28 11:37:43,957 - aiogram.event - INFO - Update id=161640433 is handled. Duration 235 ms by bot id=8503235669
+2025-11-28 11:37:48,769 - aiogram.event - INFO - Update id=161640434 is not handled. Duration 2 ms by bot id=8503235669
+2025-11-28 11:37:50,384 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-11-28 11:37:50,384 - aiogram.event - INFO - Update id=161640435 is handled. Duration 73 ms by bot id=8503235669
+2025-11-28 11:37:52,229 - aiogram.event - INFO - Update id=161640436 is handled. Duration 214 ms by bot id=8503235669
+2025-11-28 11:37:53,452 - aiogram.event - INFO - Update id=161640437 is handled. Duration 145 ms by bot id=8503235669
+2025-11-28 11:38:02,687 - aiogram.event - INFO - Update id=161640438 is handled. Duration 145 ms by bot id=8503235669
+2025-11-28 11:38:06,787 - aiogram.event - INFO - Update id=161640439 is handled. Duration 74 ms by bot id=8503235669
+2025-11-28 11:38:08,785 - root - INFO - New admin added: 5056083624 (Admin) by main admin
+2025-11-28 11:38:08,937 - aiogram.event - INFO - Update id=161640440 is handled. Duration 154 ms by bot id=8503235669
+2025-11-28 11:38:25,920 - root - INFO - Yangi foydalanuvchi 5056083624 (Ravshan Umarov) ro'yxatdan o'tish jarayonini boshladi.
+2025-11-28 11:38:25,920 - aiogram.event - INFO - Update id=161640441 is handled. Duration 70 ms by bot id=8503235669
+2025-11-28 11:38:33,446 - root - WARNING - Foydalanuvchi 5056083624 noto'g'ri parol kiritdi.
+2025-11-28 11:38:33,446 - aiogram.event - INFO - Update id=161640442 is handled. Duration 85 ms by bot id=8503235669
+2025-11-28 11:38:39,207 - root - WARNING - Foydalanuvchi 5056083624 noto'g'ri parol kiritdi.
+2025-11-28 11:38:39,208 - aiogram.event - INFO - Update id=161640443 is handled. Duration 227 ms by bot id=8503235669
+2025-11-28 11:38:43,225 - root - WARNING - Foydalanuvchi 5056083624 noto'g'ri parol kiritdi.
+2025-11-28 11:38:43,225 - aiogram.event - INFO - Update id=161640444 is handled. Duration 77 ms by bot id=8503235669
+2025-11-28 11:39:34,976 - aiogram.event - INFO - Update id=161640445 is not handled. Duration 1 ms by bot id=8503235669
+2025-11-28 11:39:54,979 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 11:39:54,979 - aiogram.event - INFO - Update id=161640446 is handled. Duration 72 ms by bot id=8503235669
+2025-11-28 11:39:56,259 - aiogram.event - INFO - Update id=161640447 is handled. Duration 147 ms by bot id=8503235669
+2025-11-28 11:40:25,894 - root - INFO - Foydalanuvchi 5056083624 to'g'ri parol kiritdi, ism so'ralmoqda.
+2025-11-28 11:40:25,894 - aiogram.event - INFO - Update id=161640448 is handled. Duration 69 ms by bot id=8503235669
+2025-11-28 11:40:39,597 - aiogram.event - INFO - Update id=161640449 is handled. Duration 189 ms by bot id=8503235669
+2025-11-28 11:40:42,415 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirishni bekor qildi
+2025-11-28 11:40:42,415 - aiogram.event - INFO - Update id=161640450 is handled. Duration 264 ms by bot id=8503235669
+2025-11-28 11:40:46,196 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-11-28 11:40:46,197 - aiogram.event - INFO - Update id=161640451 is handled. Duration 84 ms by bot id=8503235669
+2025-11-28 11:40:49,224 - aiogram.event - INFO - Update id=161640452 is handled. Duration 138 ms by bot id=8503235669
+2025-11-28 11:40:50,358 - aiogram.event - INFO - Update id=161640453 is handled. Duration 143 ms by bot id=8503235669
+2025-11-28 11:40:51,426 - aiogram.event - INFO - Update id=161640454 is handled. Duration 128 ms by bot id=8503235669
+2025-11-28 11:40:54,771 - aiogram.event - INFO - Update id=161640455 is handled. Duration 556 ms by bot id=8503235669
+2025-11-28 11:40:57,075 - aiogram.event - INFO - Update id=161640456 is handled. Duration 137 ms by bot id=8503235669
+2025-11-28 11:40:57,948 - aiogram.event - INFO - Update id=161640457 is handled. Duration 131 ms by bot id=8503235669
+2025-11-28 11:40:59,529 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 11:40:59,530 - aiogram.event - INFO - Update id=161640458 is handled. Duration 78 ms by bot id=8503235669
+2025-11-28 11:41:00,405 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 11:41:00,405 - aiogram.event - INFO - Update id=161640459 is handled. Duration 70 ms by bot id=8503235669
+2025-11-28 11:41:06,547 - aiogram.event - INFO - Update id=161640460 is handled. Duration 138 ms by bot id=8503235669
+2025-11-28 11:41:40,294 - root - INFO - Template ma'lumotlari qabul qilindi va parse qilindi
+2025-11-28 11:41:40,295 - aiogram.event - INFO - Update id=161640461 is handled. Duration 240 ms by bot id=8503235669
+2025-11-28 11:41:44,431 - root - INFO - Mahsulot rasmi qabul qilindi va tasdiqlash ko'rsatildi
+2025-11-28 11:41:44,431 - aiogram.event - INFO - Update id=161640462 is handled. Duration 131 ms by bot id=8503235669
+2025-11-28 11:41:45,462 - root - INFO - Sales report for user 7000454062 added to database.
+2025-11-28 11:41:45,462 - root - ERROR - Google Sheets'ga saqlashda xatolik: save_report_to_sheets() missing 1 required positional argument: 'report_data'
+2025-11-28 11:41:45,674 - root - INFO - Foydalanuvchi 7000454062 hisobotni tasdiqladi va guruhga yubordi
+2025-11-28 11:41:45,674 - aiogram.event - INFO - Update id=161640463 is handled. Duration 323 ms by bot id=8503235669
+2025-11-28 11:42:10,262 - root - INFO - Report status updated to 'confirmed' for group_message_id 146.
+2025-11-28 11:42:10,266 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 11:42:11,000 - root - INFO - 📄 Spreadsheet ochildi: Linesss
+2025-11-28 11:42:11,283 - root - INFO - 📋 Worksheet topildi: 'malumot'
+2025-11-28 11:42:13,450 - root - INFO - ✅ Hisobot #1 muvaffaqiyatli saqlandi: Software - sksjsn - 8.272
+2025-11-28 11:42:13,453 - root - INFO - Hisobot muvaffaqiyatli Google Sheets'ga saqlandi: Sinov
+2025-11-28 11:42:13,508 - aiogram.event - INFO - Update id=161640464 is handled. Duration 3330 ms by bot id=8503235669
+2025-11-28 12:08:39,424 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 12:08:39,424 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-11-28 12:08:39,425 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-11-28 12:08:39,425 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 12:08:39,427 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-11-28 12:08:39,427 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-11-28 12:08:39,431 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-11-28 12:08:39,432 - root - INFO - Main admin ID: 7000454062
+2025-11-28 12:08:39,432 - root - INFO - Helper ID: 7000454062
+2025-11-28 12:08:39,433 - root - INFO - Additional admins: 0
+2025-11-28 12:08:39,433 - root - INFO - Additional approvers: 0
+2025-11-28 12:08:39,433 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-11-28 12:08:39,433 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-11-28 12:08:39,433 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-11-28 12:08:39,433 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-11-28 12:08:39,433 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-11-28 12:08:39,433 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-11-28 12:08:39,445 - root - INFO - Added is_tashkent column to sales_reports table
+2025-11-28 12:08:39,450 - root - INFO - Database 'bot_data.db' initialized successfully with all tables (including is_tashkent).
+2025-11-28 12:08:39,471 - root - INFO - 🤖 Bot ishga tushmoqda...
+2025-11-28 12:08:39,472 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 12:08:39,639 - aiogram.dispatcher - INFO - Run polling for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:08:39,879 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 12:08:39,879 - aiogram.event - INFO - Update id=161640465 is handled. Duration 185 ms by bot id=8503235669
+2025-11-28 12:08:46,903 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 12:08:46,904 - aiogram.event - INFO - Update id=161640466 is handled. Duration 91 ms by bot id=8503235669
+2025-11-28 12:09:12,995 - aiogram.event - INFO - Update id=161640467 is handled. Duration 138 ms by bot id=8503235669
+2025-11-28 12:09:16,556 - aiogram.event - INFO - Update id=161640468 is handled. Duration 220 ms by bot id=8503235669
+2025-11-28 12:09:33,897 - aiogram.event - INFO - Update id=161640469 is handled. Duration 216 ms by bot id=8503235669
+2025-11-28 12:09:39,646 - aiogram.event - INFO - Update id=161640470 is handled. Duration 186 ms by bot id=8503235669
+2025-11-28 12:09:40,980 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 12:09:40,980 - aiogram.event - INFO - Update id=161640471 is handled. Duration 87 ms by bot id=8503235669
+2025-11-28 12:09:42,796 - aiogram.event - INFO - Update id=161640472 is handled. Duration 124 ms by bot id=8503235669
+2025-11-28 12:10:17,774 - root - INFO - Template ma'lumotlari qabul qilindi va parse qilindi (Toshkent: True)
+2025-11-28 12:10:17,774 - aiogram.event - INFO - Update id=161640473 is handled. Duration 192 ms by bot id=8503235669
+2025-11-28 12:10:23,046 - root - WARNING - Bot xabarini o'chirishda xatolik 76: Telegram server says - Bad Request: message to delete not found
+2025-11-28 12:10:23,051 - root - INFO - Mahsulot rasmi qabul qilindi va tasdiqlash ko'rsatildi (Toshkent: True)
+2025-11-28 12:10:23,052 - aiogram.event - INFO - Update id=161640474 is handled. Duration 159 ms by bot id=8503235669
+2025-11-28 12:10:23,131 - root - INFO - Mahsulot rasmi qabul qilindi va tasdiqlash ko'rsatildi (Toshkent: True)
+2025-11-28 12:10:23,131 - aiogram.event - INFO - Update id=161640475 is handled. Duration 238 ms by bot id=8503235669
+2025-11-28 12:10:24,817 - root - INFO - Sales report for user 7000454062 added to database (is_tashkent=1).
+2025-11-28 12:10:24,819 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:10:25,587 - root - INFO - 📄 Spreadsheet ochildi: Linesss
+2025-11-28 12:10:25,802 - root - INFO - ➕ Yangi kunlik worksheet yaratilmoqda: 'SH 28.11.2025'
+2025-11-28 12:10:28,234 - root - INFO - ✅ Sarlavhalar muvaffaqiyatli formatlandi
+2025-11-28 12:10:28,234 - root - INFO - ✅ Yangi kunlik worksheet yaratildi: 'SH 28.11.2025'
+2025-11-28 12:10:29,805 - root - INFO - ✅ Hisobot #1 Toshkent shahar (SH) sheetga saqlandi: 'SH 28.11.2025' - Software - Ajjshiusan - 32.423
+2025-11-28 12:10:29,807 - root - INFO - ✅ Hisobot Google Sheets'ga saqlandi: SH 28.11.2025 sheetga
+2025-11-28 12:10:29,948 - root - INFO - Hisobot muvaffaqiyatli yuborildi: User=7000454062, Contract=23423, Toshkent=True, Sheet=SH 28.11.2025
+2025-11-28 12:10:30,076 - aiogram.event - INFO - Update id=161640476 is handled. Duration 5362 ms by bot id=8503235669
+2025-11-28 12:10:30,571 - root - INFO - Report status updated to 'confirmed' for group_message_id 147.
+2025-11-28 12:10:30,760 - root - INFO - Hisobot tasdiqlandi: group_msg_id=147, by=7000454062
+2025-11-28 12:10:30,761 - aiogram.event - INFO - Update id=161640477 is handled. Duration 196 ms by bot id=8503235669
+2025-11-28 12:10:46,256 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 12:10:46,256 - aiogram.event - INFO - Update id=161640478 is handled. Duration 99 ms by bot id=8503235669
+2025-11-28 12:10:47,796 - aiogram.event - INFO - Update id=161640479 is handled. Duration 186 ms by bot id=8503235669
+2025-11-28 12:11:10,644 - root - INFO - Template ma'lumotlari qabul qilindi va parse qilindi (Toshkent: False)
+2025-11-28 12:11:10,644 - aiogram.event - INFO - Update id=161640480 is handled. Duration 360 ms by bot id=8503235669
+2025-11-28 12:11:16,270 - root - INFO - Mahsulot rasmi qabul qilindi va tasdiqlash ko'rsatildi (Toshkent: False)
+2025-11-28 12:11:16,270 - aiogram.event - INFO - Update id=161640481 is handled. Duration 229 ms by bot id=8503235669
+2025-11-28 12:11:17,530 - root - INFO - Sales report for user 7000454062 added to database (is_tashkent=0).
+2025-11-28 12:11:17,532 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:11:19,235 - root - INFO - 📄 Spreadsheet ochildi: Linesss
+2025-11-28 12:11:19,475 - root - INFO - ➕ Yangi kunlik worksheet yaratilmoqda: 'VL 28.11.2025'
+2025-11-28 12:11:21,547 - root - INFO - ✅ Sarlavhalar muvaffaqiyatli formatlandi
+2025-11-28 12:11:21,548 - root - INFO - ✅ Yangi kunlik worksheet yaratildi: 'VL 28.11.2025'
+2025-11-28 12:11:23,584 - root - INFO - ✅ Hisobot #1 Viloyat (VL) sheetga saqlandi: 'VL 28.11.2025' - Software - 23Q3242 - 32.423.423
+2025-11-28 12:11:23,588 - root - INFO - ✅ Hisobot Google Sheets'ga saqlandi: VL 28.11.2025 sheetga
+2025-11-28 12:11:23,598 - root - INFO - Report status updated to 'confirmed' for group_message_id 148.
+2025-11-28 12:11:23,663 - root - INFO - Hisobot muvaffaqiyatli yuborildi: User=7000454062, Contract=ASDASDA, Toshkent=False, Sheet=VL 28.11.2025
+2025-11-28 12:11:23,721 - aiogram.event - INFO - Update id=161640482 is handled. Duration 6285 ms by bot id=8503235669
+2025-11-28 12:11:23,884 - root - INFO - Hisobot tasdiqlandi: group_msg_id=148, by=7000454062
+2025-11-28 12:11:23,884 - aiogram.event - INFO - Update id=161640483 is handled. Duration 289 ms by bot id=8503235669
+2025-11-28 12:16:58,567 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-28 12:16:58,568 - aiogram.dispatcher - INFO - Polling stopped for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:16:58,568 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 12:16:58,819 - root - INFO - 🛑 Bot to'xtatildi.
+2025-11-28 12:17:04,814 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 12:17:04,815 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-11-28 12:17:04,815 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-11-28 12:17:04,815 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 12:17:04,815 - root - INFO - 🔗 YANGI: Linklar worksheet tizimi faollashtirildi
+2025-11-28 12:17:04,817 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-11-28 12:17:04,817 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-11-28 12:17:29,478 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 12:17:29,478 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-11-28 12:17:29,479 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-11-28 12:17:29,479 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 12:17:29,479 - root - INFO - 🔗 YANGI: Linklar worksheet tizimi faollashtirildi
+2025-11-28 12:17:29,480 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-11-28 12:17:29,480 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-11-28 12:20:47,293 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 12:20:47,293 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-11-28 12:20:47,293 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-11-28 12:20:47,294 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 12:20:47,294 - root - INFO - 🔗 YANGI: Linklar worksheet tizimi faollashtirildi
+2025-11-28 12:20:47,296 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-11-28 12:20:47,296 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-11-28 12:20:47,331 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-11-28 12:20:47,331 - root - INFO - Main admin ID: 7000454062
+2025-11-28 12:20:47,331 - root - INFO - Helper ID: 7000454062
+2025-11-28 12:20:47,332 - root - INFO - Additional admins: 0
+2025-11-28 12:20:47,332 - root - INFO - Additional approvers: 0
+2025-11-28 12:20:47,332 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-11-28 12:20:47,332 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-11-28 12:20:47,332 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-11-28 12:20:47,333 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-11-28 12:20:47,333 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-11-28 12:20:47,333 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-11-28 12:20:47,340 - root - INFO - Database 'bot_data.db' initialized successfully with all tables (including is_tashkent).
+2025-11-28 12:20:47,371 - root - INFO - 🤖 Bot ishga tushmoqda...
+2025-11-28 12:20:47,372 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 12:20:47,534 - aiogram.dispatcher - INFO - Run polling for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:21:29,860 - aiogram.event - INFO - Update id=161640484 is handled. Duration 186 ms by bot id=8503235669
+2025-11-28 12:21:35,149 - aiogram.event - INFO - Update id=161640485 is not handled. Duration 2 ms by bot id=8503235669
+2025-11-28 12:21:35,150 - aiogram.event - ERROR - Cause exception while process update id=161640485 by bot id=8503235669
+TypeError: compile() missing 1 required positional argument: 'pattern'
+Traceback (most recent call last):
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/HisobotBot/admin.py", line 2495, in process_add_link
+    url_pattern = re.compile(
+                  ^^^^^^^^^^^
+TypeError: compile() missing 1 required positional argument: 'pattern'
+2025-11-28 12:27:09,640 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-28 12:27:09,641 - aiogram.dispatcher - INFO - Polling stopped for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:27:09,642 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 12:27:09,893 - root - INFO - 🛑 Bot to'xtatildi.
+2025-11-28 12:27:15,080 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 12:27:15,081 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-11-28 12:27:15,081 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-11-28 12:27:15,081 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 12:27:15,081 - root - INFO - 🔗 YANGI: Linklar worksheet tizimi faollashtirildi
+2025-11-28 12:27:15,085 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-11-28 12:27:15,086 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-11-28 12:27:15,118 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-11-28 12:27:15,119 - root - INFO - Main admin ID: 7000454062
+2025-11-28 12:27:15,119 - root - INFO - Helper ID: 7000454062
+2025-11-28 12:27:15,119 - root - INFO - Additional admins: 0
+2025-11-28 12:27:15,119 - root - INFO - Additional approvers: 0
+2025-11-28 12:27:15,119 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-11-28 12:27:15,119 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-11-28 12:27:15,119 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-11-28 12:27:15,119 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-11-28 12:27:15,119 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-11-28 12:27:15,119 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-11-28 12:27:15,125 - root - INFO - Database 'bot_data.db' initialized successfully with all tables (including is_tashkent).
+2025-11-28 12:27:15,149 - root - INFO - 🤖 Bot ishga tushmoqda...
+2025-11-28 12:27:15,150 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 12:27:15,310 - aiogram.dispatcher - INFO - Run polling for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:27:24,581 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 12:27:24,581 - aiogram.event - INFO - Update id=161640486 is handled. Duration 185 ms by bot id=8503235669
+2025-11-28 12:27:28,810 - aiogram.event - INFO - Update id=161640487 is not handled. Duration 2 ms by bot id=8503235669
+2025-11-28 12:28:42,057 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-28 12:28:42,057 - aiogram.dispatcher - INFO - Polling stopped for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:28:42,058 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 12:28:42,310 - root - INFO - 🛑 Bot to'xtatildi.
+2025-11-28 12:28:47,371 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 12:28:47,371 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-11-28 12:28:47,371 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-11-28 12:28:47,371 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 12:28:47,371 - root - INFO - 🔗 YANGI: Linklar worksheet tizimi faollashtirildi
+2025-11-28 12:28:47,373 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-11-28 12:28:47,373 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-11-28 12:28:47,377 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-11-28 12:28:47,378 - root - INFO - Main admin ID: 7000454062
+2025-11-28 12:28:47,378 - root - INFO - Helper ID: 7000454062
+2025-11-28 12:28:47,378 - root - INFO - Additional admins: 0
+2025-11-28 12:28:47,378 - root - INFO - Additional approvers: 0
+2025-11-28 12:28:47,378 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-11-28 12:28:47,378 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-11-28 12:28:47,379 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-11-28 12:28:47,379 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-11-28 12:28:47,379 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-11-28 12:28:47,379 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-11-28 12:28:47,391 - root - INFO - Database 'bot_data.db' initialized successfully with all tables (including is_tashkent).
+2025-11-28 12:28:47,412 - root - INFO - Bot ishga tushmoqda...
+2025-11-28 12:28:47,412 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 12:28:47,562 - aiogram.dispatcher - INFO - Run polling for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:28:48,732 - root - INFO - Admin 7000454062 /add buyrug'ini ishlatdi
+2025-11-28 12:28:48,732 - aiogram.event - INFO - Update id=161640488 is handled. Duration 184 ms by bot id=8503235669
+2025-11-28 12:28:49,955 - aiogram.event - INFO - Update id=161640489 is handled. Duration 64 ms by bot id=8503235669
+2025-11-28 12:28:53,500 - aiogram.event - INFO - Update id=161640490 is handled. Duration 171 ms by bot id=8503235669
+2025-11-28 12:29:22,351 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:29:23,572 - root - INFO - 📄 Spreadsheet ochildi: add ga
+2025-11-28 12:29:23,897 - root - INFO - ➕ Yangi worksheet yaratilmoqda: 'Linklar'
+2025-11-28 12:29:26,065 - root - INFO - ✅ Linklar sarlavhalari formatlandi
+2025-11-28 12:29:26,065 - root - INFO - ✅ Yangi worksheet yaratildi: 'Linklar'
+2025-11-28 12:29:26,176 - root - INFO - Admin 7000454062 Google Sheets sozladi: 1ncgA412oqrnYKB1F3Oe6pJRi9mv69rUr0dNjrZtFCd8
+2025-11-28 12:29:26,179 - aiogram.event - INFO - Update id=161640491 is handled. Duration 3909 ms by bot id=8503235669
+2025-11-28 12:29:34,019 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:29:34,595 - root - INFO - 📄 Spreadsheet ochildi: add ga
+2025-11-28 12:29:34,832 - root - INFO - 📋 Mavjud worksheet topildi: 'Linklar'
+2025-11-28 12:29:36,010 - aiogram.event - INFO - Update id=161640492 is handled. Duration 1998 ms by bot id=8503235669
+2025-11-28 12:29:40,156 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 12:29:40,156 - aiogram.event - INFO - Update id=161640493 is handled. Duration 84 ms by bot id=8503235669
+2025-11-28 12:29:41,371 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 12:29:41,371 - aiogram.event - INFO - Update id=161640494 is handled. Duration 74 ms by bot id=8503235669
+2025-11-28 12:29:43,086 - aiogram.event - INFO - Update id=161640495 is handled. Duration 137 ms by bot id=8503235669
+2025-11-28 12:29:59,257 - aiogram.event - INFO - Update id=161640496 is handled. Duration 276 ms by bot id=8503235669
+2025-11-28 12:30:24,193 - root - INFO - Template ma'lumotlari qabul qilindi va parse qilindi (Toshkent: True)
+2025-11-28 12:30:24,193 - aiogram.event - INFO - Update id=161640497 is handled. Duration 194 ms by bot id=8503235669
+2025-11-28 12:30:29,983 - root - INFO - Mahsulot rasmi qabul qilindi va tasdiqlash ko'rsatildi (Toshkent: True)
+2025-11-28 12:30:29,983 - aiogram.event - INFO - Update id=161640498 is handled. Duration 259 ms by bot id=8503235669
+2025-11-28 12:30:31,279 - root - INFO - Sales report for user 7000454062 added to database (is_tashkent=1).
+2025-11-28 12:30:31,281 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:30:32,558 - root - INFO - 📄 Spreadsheet ochildi: Linesss
+2025-11-28 12:30:32,787 - root - INFO - 📋 Mavjud kunlik worksheet topildi: 'SH 28.11.2025'
+2025-11-28 12:30:36,002 - root - INFO - ✅ Hisobot #2 Toshkent shahar (SH) sheetga saqlandi: 'SH 28.11.2025' - Software - asdadsa - 32.424
+2025-11-28 12:30:36,009 - root - INFO - ✅ Hisobot Google Sheets'ga saqlandi: SH 28.11.2025 sheetga
+2025-11-28 12:30:36,022 - root - INFO - Report status updated to 'confirmed' for group_message_id 149.
+2025-11-28 12:30:36,111 - root - INFO - Hisobot muvaffaqiyatli yuborildi: User=7000454062, Contract=asdasdasawsq, Toshkent=True, Sheet=SH 28.11.2025
+2025-11-28 12:30:36,176 - aiogram.event - INFO - Update id=161640499 is handled. Duration 5014 ms by bot id=8503235669
+2025-11-28 12:30:36,274 - root - INFO - Hisobot tasdiqlandi: group_msg_id=149, by=7000454062
+2025-11-28 12:30:36,274 - aiogram.event - INFO - Update id=161640500 is handled. Duration 258 ms by bot id=8503235669
+2025-11-28 12:31:09,442 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:31:10,052 - root - INFO - 📄 Spreadsheet ochildi: add ga
+2025-11-28 12:31:10,283 - root - INFO - 📋 Mavjud worksheet topildi: 'Linklar'
+2025-11-28 12:31:10,976 - root - INFO - Admin 7000454062 /add buyrug'ini ishlatdi
+2025-11-28 12:31:10,977 - aiogram.event - INFO - Update id=161640501 is handled. Duration 1539 ms by bot id=8503235669
+2025-11-28 12:31:14,839 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:31:15,912 - root - INFO - 📄 Spreadsheet ochildi: add ga
+2025-11-28 12:31:16,190 - root - INFO - 📋 Mavjud worksheet topildi: 'Linklar'
+2025-11-28 12:31:16,868 - root - INFO - Admin 7000454062 /add buyrug'ini ishlatdi
+2025-11-28 12:31:16,868 - aiogram.event - INFO - Update id=161640502 is handled. Duration 2032 ms by bot id=8503235669
+2025-11-28 12:36:28,271 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-28 12:36:28,272 - aiogram.dispatcher - INFO - Polling stopped for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:36:28,272 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 12:36:28,524 - root - INFO - Bot to'xtatildi.
+2025-11-28 12:36:33,682 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 12:36:33,683 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-11-28 12:36:33,683 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-11-28 12:36:33,683 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 12:36:33,683 - root - INFO - 🔗 YANGI: Linklar worksheet tizimi faollashtirildi
+2025-11-28 12:36:33,683 - root - INFO - 📊 YANGI: ALL DATA worksheet tizimi faollashtirildi
+2025-11-28 12:36:33,689 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-11-28 12:36:33,689 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-11-28 12:36:33,694 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-11-28 12:36:33,694 - root - INFO - Main admin ID: 7000454062
+2025-11-28 12:36:33,695 - root - INFO - Helper ID: 7000454062
+2025-11-28 12:36:33,695 - root - INFO - Additional admins: 0
+2025-11-28 12:36:33,695 - root - INFO - Additional approvers: 0
+2025-11-28 12:36:33,695 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-11-28 12:36:33,695 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-11-28 12:36:33,695 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-11-28 12:36:33,696 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-11-28 12:36:33,696 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-11-28 12:36:33,696 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-11-28 12:36:33,706 - root - INFO - Database 'bot_data.db' initialized successfully with all tables (including is_tashkent).
+2025-11-28 12:36:33,728 - root - INFO - Bot ishga tushmoqda...
+2025-11-28 12:36:33,729 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 12:36:33,891 - aiogram.dispatcher - INFO - Run polling for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:36:48,713 - aiogram.event - INFO - Update id=161640503 is handled. Duration 220 ms by bot id=8503235669
+2025-11-28 12:36:51,272 - aiogram.event - INFO - Update id=161640504 is handled. Duration 153 ms by bot id=8503235669
+2025-11-28 12:36:56,488 - aiogram.event - INFO - Update id=161640505 is not handled. Duration 2 ms by bot id=8503235669
+2025-11-28 12:36:56,488 - aiogram.event - ERROR - Cause exception while process update id=161640505 by bot id=8503235669
+ImportError: cannot import name 'test_all_data_sheet_connection' from 'google_sheets_integration' (/root/TelegramBot/HisobotBot/google_sheets_integration.py)
+Traceback (most recent call last):
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/TeleVenv/lib/python3.12/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/root/TelegramBot/HisobotBot/additional.py", line 197, in process_all_data_sheet_url
+    from google_sheets_integration import test_all_data_sheet_connection
+ImportError: cannot import name 'test_all_data_sheet_connection' from 'google_sheets_integration' (/root/TelegramBot/HisobotBot/google_sheets_integration.py). Did you mean: 'test_google_sheets_connection'?
+2025-11-28 12:38:50,666 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-28 12:38:50,667 - aiogram.dispatcher - INFO - Polling stopped for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:38:50,668 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 12:38:50,919 - root - INFO - Bot to'xtatildi.
+2025-11-28 12:38:55,676 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 12:38:55,677 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-11-28 12:38:55,677 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-11-28 12:38:55,677 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 12:38:55,677 - root - INFO - 🔗 YANGI: Linklar worksheet tizimi faollashtirildi
+2025-11-28 12:38:55,677 - root - INFO - 📊 YANGI: ALL DATA worksheet tizimi faollashtirildi
+2025-11-28 12:38:55,679 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-11-28 12:38:55,680 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-11-28 12:38:55,684 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-11-28 12:38:55,685 - root - INFO - Main admin ID: 7000454062
+2025-11-28 12:38:55,685 - root - INFO - Helper ID: 7000454062
+2025-11-28 12:38:55,685 - root - INFO - Additional admins: 0
+2025-11-28 12:38:55,685 - root - INFO - Additional approvers: 0
+2025-11-28 12:38:55,685 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-11-28 12:38:55,685 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-11-28 12:38:55,685 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-11-28 12:38:55,685 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-11-28 12:38:55,685 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-11-28 12:38:55,685 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-11-28 12:38:55,692 - root - INFO - Database 'bot_data.db' initialized successfully with all tables (including is_tashkent).
+2025-11-28 12:38:55,712 - root - INFO - Bot ishga tushmoqda...
+2025-11-28 12:38:55,713 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 12:38:55,874 - aiogram.dispatcher - INFO - Run polling for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:39:07,818 - aiogram.event - INFO - Update id=161640506 is handled. Duration 178 ms by bot id=8503235669
+2025-11-28 12:39:09,118 - aiogram.event - INFO - Update id=161640507 is handled. Duration 141 ms by bot id=8503235669
+2025-11-28 12:39:11,129 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:39:11,828 - root - INFO - 📄 ALL DATA Spreadsheet ochildi: add ga
+2025-11-28 12:39:12,031 - root - INFO - ➕ Yangi ALL DATA worksheet yaratilmoqda
+2025-11-28 12:39:13,423 - root - INFO - ✅ ALL DATA sarlavhalar formatlandi
+2025-11-28 12:39:13,424 - root - INFO - ✅ ALL DATA worksheet yaratildi
+2025-11-28 12:39:13,425 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:39:13,999 - root - INFO - 📄 ALL DATA Spreadsheet ochildi: add ga
+2025-11-28 12:39:14,738 - root - INFO - 📋 Mavjud ALL DATA worksheet topildi
+2025-11-28 12:39:15,530 - root - INFO - ✅ Hisobot #1 ALL DATA sheetga saqlandi - TEST - Sotuvchi - Toshkent shahar
+2025-11-28 12:39:15,875 - root - INFO - ✅ ALL DATA Sheet sozlandi: 1ncgA412oqrnYKB1F3Oe6pJRi9mv69rUr0dNjrZtFCd8 by admin 7000454062
+2025-11-28 12:39:15,876 - aiogram.event - INFO - Update id=161640508 is handled. Duration 4751 ms by bot id=8503235669
+2025-11-28 12:39:28,473 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-11-28 12:39:28,473 - aiogram.event - INFO - Update id=161640509 is handled. Duration 97 ms by bot id=8503235669
+2025-11-28 12:39:29,533 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 12:39:29,534 - aiogram.event - INFO - Update id=161640510 is handled. Duration 88 ms by bot id=8503235669
+2025-11-28 12:39:30,922 - aiogram.event - INFO - Update id=161640511 is handled. Duration 147 ms by bot id=8503235669
+2025-11-28 12:40:03,424 - root - INFO - Template ma'lumotlari qabul qilindi va parse qilindi (Toshkent: True)
+2025-11-28 12:40:03,424 - aiogram.event - INFO - Update id=161640512 is handled. Duration 200 ms by bot id=8503235669
+2025-11-28 12:40:09,758 - root - INFO - Mahsulot rasmi qabul qilindi va tasdiqlash ko'rsatildi (Toshkent: True)
+2025-11-28 12:40:09,758 - aiogram.event - INFO - Update id=161640513 is handled. Duration 316 ms by bot id=8503235669
+2025-11-28 12:40:11,376 - root - INFO - Sales report for user 7000454062 added to database (is_tashkent=1).
+2025-11-28 12:40:11,378 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:40:12,106 - root - INFO - 📄 Spreadsheet ochildi: Linesss
+2025-11-28 12:40:12,332 - root - INFO - 📋 Mavjud kunlik worksheet topildi: 'SH 28.11.2025'
+2025-11-28 12:40:15,010 - root - INFO - ✅ Hisobot #3 Toshkent shahar (SH) sheetga saqlandi: 'SH 28.11.2025' - Software - Sjsjs - 32.423
+2025-11-28 12:40:15,013 - root - INFO - ✅ Hisobot Google Sheets'ga saqlandi: SH 28.11.2025
+2025-11-28 12:40:15,015 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:40:15,626 - root - INFO - 📄 ALL DATA Spreadsheet ochildi: add ga
+2025-11-28 12:40:15,911 - root - INFO - 📋 Mavjud ALL DATA worksheet topildi
+2025-11-28 12:40:16,782 - root - INFO - ✅ Hisobot #2 ALL DATA sheetga saqlandi - Software - Toshkent shahar
+2025-11-28 12:40:16,785 - root - INFO - ✅ Hisobot ALL DATA sheetga ham saqlandi
+2025-11-28 12:40:16,946 - root - INFO - Hisobot muvaffaqiyatli yuborildi: User=7000454062, Contract=as3223, Toshkent=True, Sheet=SH 28.11.2025
+2025-11-28 12:40:17,070 - aiogram.event - INFO - Update id=161640514 is handled. Duration 5795 ms by bot id=8503235669
+2025-11-28 12:40:25,590 - aiogram.event - INFO - Update id=161640515 is handled. Duration 100 ms by bot id=8503235669
+2025-11-28 12:40:33,965 - root - INFO - Report status updated to 'confirmed' for group_message_id 152.
+2025-11-28 12:40:34,125 - root - INFO - Hisobot tasdiqlandi: group_msg_id=152, by=7000454062
+2025-11-28 12:40:34,126 - aiogram.event - INFO - Update id=161640516 is handled. Duration 165 ms by bot id=8503235669
+2025-11-28 12:40:52,144 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 12:40:52,144 - aiogram.event - INFO - Update id=161640517 is handled. Duration 85 ms by bot id=8503235669
+2025-11-28 12:40:59,542 - aiogram.event - INFO - Update id=161640518 is handled. Duration 142 ms by bot id=8503235669
+2025-11-28 12:41:00,861 - aiogram.event - INFO - Update id=161640519 is handled. Duration 190 ms by bot id=8503235669
+2025-11-28 12:41:01,674 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 12:41:01,674 - aiogram.event - INFO - Update id=161640520 is handled. Duration 99 ms by bot id=8503235669
+2025-11-28 12:41:05,793 - aiogram.event - INFO - Update id=161640521 is handled. Duration 207 ms by bot id=8503235669
+2025-11-28 12:41:19,147 - root - INFO - Template ma'lumotlari qabul qilindi va parse qilindi (Toshkent: False)
+2025-11-28 12:41:19,147 - aiogram.event - INFO - Update id=161640522 is handled. Duration 202 ms by bot id=8503235669
+2025-11-28 12:41:25,261 - root - INFO - Mahsulot rasmi qabul qilindi va tasdiqlash ko'rsatildi (Toshkent: False)
+2025-11-28 12:41:25,261 - aiogram.event - INFO - Update id=161640523 is handled. Duration 148 ms by bot id=8503235669
+2025-11-28 12:41:26,243 - root - INFO - Sales report for user 7000454062 added to database (is_tashkent=0).
+2025-11-28 12:41:26,244 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:41:26,996 - root - INFO - 📄 Spreadsheet ochildi: Linesss
+2025-11-28 12:41:27,228 - root - INFO - 📋 Mavjud kunlik worksheet topildi: 'VL 28.11.2025'
+2025-11-28 12:41:29,134 - root - INFO - ✅ Hisobot #2 Viloyat (VL) sheetga saqlandi: 'VL 28.11.2025' - Software - sadsadsa - 332.423
+2025-11-28 12:41:29,137 - root - INFO - ✅ Hisobot Google Sheets'ga saqlandi: VL 28.11.2025
+2025-11-28 12:41:29,138 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:41:29,744 - root - INFO - 📄 ALL DATA Spreadsheet ochildi: add ga
+2025-11-28 12:41:30,477 - root - INFO - 📋 Mavjud ALL DATA worksheet topildi
+2025-11-28 12:41:31,363 - root - INFO - ✅ Hisobot #3 ALL DATA sheetga saqlandi - Software - Viloyat
+2025-11-28 12:41:31,366 - root - INFO - ✅ Hisobot ALL DATA sheetga ham saqlandi
+2025-11-28 12:41:31,456 - root - INFO - Hisobot muvaffaqiyatli yuborildi: User=7000454062, Contract=asdas, Toshkent=False, Sheet=VL 28.11.2025
+2025-11-28 12:41:31,514 - aiogram.event - INFO - Update id=161640524 is handled. Duration 5358 ms by bot id=8503235669
+2025-11-28 12:41:34,890 - root - INFO - Report status updated to 'confirmed' for group_message_id 153.
+2025-11-28 12:41:35,145 - root - INFO - Hisobot tasdiqlandi: group_msg_id=153, by=7000454062
+2025-11-28 12:41:35,145 - aiogram.event - INFO - Update id=161640525 is handled. Duration 260 ms by bot id=8503235669
+2025-11-28 12:41:54,099 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-11-28 12:41:54,100 - aiogram.event - INFO - Update id=161640526 is handled. Duration 151 ms by bot id=8503235669
+2025-11-28 12:41:55,918 - aiogram.event - INFO - Update id=161640527 is handled. Duration 151 ms by bot id=8503235669
+2025-11-28 12:42:28,929 - root - INFO - Template ma'lumotlari qabul qilindi va parse qilindi (Toshkent: False)
+2025-11-28 12:42:28,930 - aiogram.event - INFO - Update id=161640528 is handled. Duration 220 ms by bot id=8503235669
+2025-11-28 12:42:33,575 - root - INFO - Mahsulot rasmi qabul qilindi va tasdiqlash ko'rsatildi (Toshkent: False)
+2025-11-28 12:42:33,576 - aiogram.event - INFO - Update id=161640529 is handled. Duration 249 ms by bot id=8503235669
+2025-11-28 12:42:34,888 - root - INFO - Sales report for user 7000454062 added to database (is_tashkent=0).
+2025-11-28 12:42:34,890 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:42:35,481 - root - INFO - 📄 Spreadsheet ochildi: Linesss
+2025-11-28 12:42:35,726 - root - INFO - 📋 Mavjud kunlik worksheet topildi: 'VL 28.11.2025'
+2025-11-28 12:42:37,594 - root - INFO - ✅ Hisobot #3 Viloyat (VL) sheetga saqlandi: 'VL 28.11.2025' - Software - asdasas - 32.424
+2025-11-28 12:42:37,597 - root - INFO - ✅ Hisobot Google Sheets'ga saqlandi: VL 28.11.2025
+2025-11-28 12:42:37,600 - root - INFO - ✅ Google Sheets client muvaffaqiyatli yaratildi
+2025-11-28 12:42:38,779 - root - INFO - 📄 ALL DATA Spreadsheet ochildi: add ga
+2025-11-28 12:42:39,505 - root - INFO - 📋 Mavjud ALL DATA worksheet topildi
+2025-11-28 12:42:40,432 - root - INFO - ✅ Hisobot #4 ALL DATA sheetga saqlandi - Software - Viloyat
+2025-11-28 12:42:40,434 - root - INFO - ✅ Hisobot ALL DATA sheetga ham saqlandi
+2025-11-28 12:42:40,446 - root - INFO - Report status updated to 'confirmed' for group_message_id 154.
+2025-11-28 12:42:40,511 - root - INFO - Hisobot muvaffaqiyatli yuborildi: User=7000454062, Contract=23423, Toshkent=False, Sheet=VL 28.11.2025
+2025-11-28 12:42:40,573 - aiogram.event - INFO - Update id=161640530 is handled. Duration 5792 ms by bot id=8503235669
+2025-11-28 12:42:40,670 - root - INFO - Hisobot tasdiqlandi: group_msg_id=154, by=7000454062
+2025-11-28 12:42:40,670 - aiogram.event - INFO - Update id=161640531 is handled. Duration 229 ms by bot id=8503235669
+2025-11-28 12:45:15,197 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-11-28 12:45:15,199 - aiogram.dispatcher - INFO - Polling stopped for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-11-28 12:45:15,199 - aiogram.dispatcher - INFO - Polling stopped
+2025-11-28 12:45:15,451 - root - INFO - Bot to'xtatildi.
+2025-11-28 12:45:29,846 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-11-28 12:45:29,847 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-11-28 12:45:29,847 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-11-28 12:45:29,847 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-11-28 12:45:29,847 - root - INFO - 🔗 YANGI: Linklar worksheet tizimi faollashtirildi
+2025-11-28 12:45:29,847 - root - INFO - 📊 YANGI: ALL DATA worksheet tizimi faollashtirildi
+2025-11-28 12:45:29,849 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-11-28 12:45:29,850 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-11-28 12:45:29,854 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-11-28 12:45:29,854 - root - INFO - Main admin ID: 7000454062
+2025-11-28 12:45:29,854 - root - INFO - Helper ID: 7000454062
+2025-11-28 12:45:29,854 - root - INFO - Additional admins: 0
+2025-11-28 12:45:29,854 - root - INFO - Additional approvers: 0
+2025-11-28 12:45:29,854 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-11-28 12:45:29,854 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-11-28 12:45:29,854 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-11-28 12:45:29,855 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-11-28 12:45:29,855 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-11-28 12:45:29,855 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-11-28 12:45:29,860 - root - INFO - Database 'bot_data.db' initialized successfully with all tables (including is_tashkent).
+2025-11-28 12:45:29,881 - root - INFO - Bot ishga tushmoqda...
+2025-11-28 12:45:29,882 - aiogram.dispatcher - INFO - Start polling
+2025-11-28 12:45:30,032 - aiogram.dispatcher - INFO - Run polling for bot @AsiaOperatorsBot id=8503235669 - 'Hisobot Bot'
+2025-12-09 17:34:08,818 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-12-09 17:34:08,820 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-12-09 17:34:08,820 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-12-09 17:34:08,820 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Mahsulot | Jo'natma | Manzil | Sana | Hisobot | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-12-09 17:34:08,820 - root - INFO - 🔗 YANGI: Linklar worksheet tizimi faollashtirildi
+2025-12-09 17:34:08,821 - root - INFO - 📊 YANGI: ALL DATA worksheet tizimi faollashtirildi
+2025-12-09 17:34:08,828 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-12-09 17:34:08,828 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-12-09 17:34:08,901 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-12-09 17:34:08,901 - root - INFO - Main admin ID: 7000454062
+2025-12-09 17:34:08,902 - root - INFO - Helper ID: 7000454062
+2025-12-09 17:34:08,902 - root - INFO - Additional admins: 0
+2025-12-09 17:34:08,903 - root - INFO - Additional approvers: 0
+2025-12-09 17:34:08,903 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-12-09 17:34:08,903 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-12-09 17:34:08,904 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-12-09 17:34:08,905 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-12-09 17:34:08,906 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-12-09 17:34:08,906 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-12-09 17:34:08,931 - root - INFO - Database 'bot_data.db' initialized successfully with all tables (including is_tashkent).
+2025-12-09 17:34:09,206 - root - INFO - Bot ishga tushmoqda...
+2025-12-09 17:34:09,207 - aiogram.dispatcher - INFO - Start polling
+2025-12-09 17:34:09,630 - aiogram.dispatcher - INFO - Run polling for bot @demoribot id=8299226351 - 'Sinov Botim'
+2025-12-09 17:34:11,577 - aiogram.event - INFO - Update id=832234309 is not handled. Duration 11 ms by bot id=8299226351
+2025-12-09 17:34:13,394 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-12-09 17:34:13,396 - aiogram.event - INFO - Update id=832234310 is handled. Duration 453 ms by bot id=8299226351
+2025-12-09 17:34:15,281 - aiogram.event - INFO - Update id=832234311 is handled. Duration 346 ms by bot id=8299226351
+2025-12-09 17:34:16,588 - aiogram.event - INFO - Update id=832234312 is handled. Duration 379 ms by bot id=8299226351
+2025-12-09 17:34:17,507 - aiogram.event - INFO - Update id=832234313 is handled. Duration 342 ms by bot id=8299226351
+2025-12-09 17:34:18,507 - aiogram.event - INFO - Update id=832234314 is handled. Duration 427 ms by bot id=8299226351
+2025-12-09 17:34:19,100 - aiogram.event - INFO - Update id=832234315 is handled. Duration 343 ms by bot id=8299226351
+2025-12-09 17:34:20,596 - aiogram.event - INFO - Update id=832234316 is handled. Duration 320 ms by bot id=8299226351
+2025-12-09 17:34:22,307 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-12-09 17:34:22,309 - aiogram.event - INFO - Update id=832234317 is handled. Duration 190 ms by bot id=8299226351
+2025-12-09 17:34:26,058 - root - INFO - Admin 7000454062 admin panelga kirdi
+2025-12-09 17:34:26,058 - aiogram.event - INFO - Update id=832234318 is handled. Duration 254 ms by bot id=8299226351
+2025-12-09 17:34:29,168 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-12-09 17:34:29,169 - aiogram.event - INFO - Update id=832234319 is handled. Duration 241 ms by bot id=8299226351
+2025-12-09 17:34:30,815 - aiogram.event - INFO - Update id=832234320 is handled. Duration 374 ms by bot id=8299226351
+2025-12-09 17:34:53,030 - aiogram.event - INFO - Update id=832234321 is handled. Duration 500 ms by bot id=8299226351
+2025-12-09 17:38:06,448 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-09 17:38:06,455 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-09 17:38:06,456 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8299226351)
+2025-12-09 17:38:06,711 - root - INFO - Bot to'xtatildi.
+2025-12-09 17:38:06,713 - aiogram.dispatcher - INFO - Polling stopped for bot @demoribot id=8299226351 - 'Sinov Botim'
+2025-12-09 17:38:06,717 - root - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-12-09 17:38:14,636 - root - INFO - 🚀 Google Sheets Integration moduli muvaffaqiyatli yuklandi
+2025-12-09 17:38:14,638 - root - INFO - 📊 YANGI: Kunlik sheetlar tizimi faollashtirildi
+2025-12-09 17:38:14,638 - root - INFO - 🏙️ Toshkent shahar: SH DD.MM.YYYY | Viloyat: VL DD.MM.YYYY
+2025-12-09 17:38:14,638 - root - INFO - 📋 Ustunlar: № | Mijoz | Telefon | Qo'shimcha Telefon | Mahsulot | Jo'natma | Dastavka | Izoh | Manzil | Sana | Yuborilgan | Shartnoma | Summa | Sotuvchi
+2025-12-09 17:38:14,639 - root - INFO - 🔗 YANGI: Linklar worksheet tizimi faollashtirildi
+2025-12-09 17:38:14,639 - root - INFO - 📊 YANGI: Kunlik ALL DATA worksheet tizimi faollashtirildi (ALL DATA DD.MM.YYYY)
+2025-12-09 17:38:14,653 - root - INFO - 🚀 Otchot moduli muvaffaqiyatli yuklandi
+2025-12-09 17:38:14,654 - root - INFO - 📊 Kunlik sheetlar tizimi faollashtirildi: SH/VL DD.MM.YYYY
+2025-12-09 17:38:14,655 - root - INFO - 🚛 YANGI: Dastavka maydoni qo'shildi
+2025-12-09 17:38:14,678 - root - INFO - Enhanced Admin router v2.1 initialized successfully
+2025-12-09 17:38:14,679 - root - INFO - Main admin ID: 7000454062
+2025-12-09 17:38:14,681 - root - INFO - Helper ID: 7000454062
+2025-12-09 17:38:14,682 - root - INFO - Additional admins: 0
+2025-12-09 17:38:14,683 - root - INFO - Additional approvers: 0
+2025-12-09 17:38:14,684 - root - INFO - ✅ Tasdiqlovchilar tizimi qo'shildi va to'liq ishga tayyor
+2025-12-09 17:38:14,685 - root - INFO - 📄 Sahifalash tizimi qo'shildi
+2025-12-09 17:38:14,686 - root - INFO - 🔧 To'liq admin panel funksiyalari
+2025-12-09 17:38:14,687 - root - INFO - 📢 Broadcast messaging qo'shildi
+2025-12-09 17:38:14,688 - root - INFO - 🏙️ Toshkent shahar funksiyasi qo'llab-quvvatlanadi
+2025-12-09 17:38:14,689 - root - INFO - 🎯 Admin paneldan qo'shilgan tasdiqlovchilar hisobotlarni tasdiqlash imkoniyatiga ega
+2025-12-09 17:38:14,715 - root - INFO - Database 'bot_data.db' initialized successfully with all tables (including is_tashkent).
+2025-12-09 17:38:15,914 - root - INFO - Bot ishga tushmoqda...
+2025-12-09 17:38:15,917 - aiogram.dispatcher - INFO - Start polling
+2025-12-09 17:38:16,585 - aiogram.dispatcher - INFO - Run polling for bot @demoribot id=8299226351 - 'Sinov Botim'
+2025-12-09 17:38:18,453 - root - INFO - Mavjud foydalanuvchi 7000454062 (𝗛𝗮𝘆𝗼𝘁𝗯𝗲𝗸 𝗜𝘀𝗺𝗼𝗶𝗹𝗼𝘃 |) botga kirdi.
+2025-12-09 17:38:18,454 - aiogram.event - INFO - Update id=832234322 is handled. Duration 453 ms by bot id=8299226351
+2025-12-09 17:38:19,510 - root - INFO - Foydalanuvchi 7000454062 hisobot topshirish jarayonini boshladi
+2025-12-09 17:38:19,512 - aiogram.event - INFO - Update id=832234323 is handled. Duration 194 ms by bot id=8299226351
+2025-12-09 17:38:20,995 - aiogram.event - INFO - Update id=832234324 is handled. Duration 386 ms by bot id=8299226351
+2025-12-09 17:47:48,411 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-09 17:47:48,446 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-09 17:47:48,448 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8299226351)
+2025-12-09 17:47:48,717 - root - INFO - Bot to'xtatildi.
+2025-12-09 17:47:48,726 - aiogram.dispatcher - INFO - Polling stopped for bot @demoribot id=8299226351 - 'Sinov Botim'
+2025-12-09 17:47:48,738 - root - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
